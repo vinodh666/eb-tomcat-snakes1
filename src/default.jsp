@@ -28,8 +28,9 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Welcome To DevOps Training</h1>
-      <p class="lead">A safety resource for snake haters.</p>
+      <h1 class="cover-heading">Welcome To DevOps Training B19 Batch</h1>
+      <iframe src="https://giphy.com/embed/HoZ4p20ix5h8A" width="480" height="385" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telugu-HoZ4p20ix5h8A">via GIPHY</a></p>
+      <p class="lead">By Sreeharsha Veerapalli</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
       <p>Snakes are a controversial topic. Some people love'em, some people just can't stand them. How do you get by in a world full of snakes?</p>
