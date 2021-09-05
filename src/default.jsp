@@ -29,7 +29,7 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">Welcome To DevOps Training B19 batch</h1>
-      <div class="tenor-gif-embed" data-postid="19087084" data-share-method="host" data-aspect-ratio="1.09215" data-width="100%"><a href="https://tenor.com/view/hi-hello-gif-ala-vaikuntapuram-lo-movie-tabu-gif-19087084">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <div class="tenor-gif-embed" data-postid="20772199" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/brahmi-brahmanandam-telugu-tollywood-telugu-comedy-gif-20772199">Brahmi Brahmanandam GIF</a>from <a href="https://tenor.com/search/brahmi-gifs">Brahmi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       <p class="lead"></p>By Sreeharsha veerapalli
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
