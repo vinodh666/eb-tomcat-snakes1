@@ -29,7 +29,7 @@
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
       <h1 class="cover-heading">Welcome To DevOps Training B19 batch</h1>
-      <div class="tenor-gif-embed" data-postid="15841180" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/abboo-brahmi-%E0%B0%AC%E0%B1%8D%E0%B0%B0%E0%B0%B9%E0%B1%8D%E0%B0%AE%E0%B0%BF-%E0%B0%B0%E0%B0%BF%E0%B0%AF%E0%B0%BE%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%A8%E0%B1%8D%E0%B0%B8%E0%B1%8D-%E0%B0%97%E0%B0%BF%E0%B0%AB%E0%B1%8D-gif-15841180">Abboo Brahmi GIF</a>from <a href="https://tenor.com/search/abboo-gifs">Abboo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <div class="tenor-gif-embed" data-postid="19726157" data-share-method="host" data-aspect-ratio="1.64948" data-width="100%"><a href="https://tenor.com/view/tabu-ninne-pelladatha-gif-19726157">Tabu Ninne Pelladatha GIF</a>from <a href="https://tenor.com/search/tabu-gifs">Tabu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
       <p class="lead"></p>By Sreeharsha veerapalli
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
