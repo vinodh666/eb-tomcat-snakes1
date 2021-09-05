@@ -28,8 +28,9 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">Welcome To DevOps Training</h1>
-      <p class="lead">A safety resource for snake haters.</p>
+      <h1 class="cover-heading">Welcome To DevOps Training B19 batch</h1>
+      <div class="tenor-gif-embed" data-postid="19127360" data-share-method="host" data-aspect-ratio="1.31687" data-width="25%"><a href="https://tenor.com/view/23-gif-19127360">23 GIF</a>from <a href="https://tenor.com/search/23-gifs">23 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <p class="lead"></p>By Sreeharsha veerapalli
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
       <p>Snakes are a controversial topic. Some people love'em, some people just can't stand them. How do you get by in a world full of snakes?</p>
